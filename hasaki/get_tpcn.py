@@ -1,3 +1,4 @@
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -54,8 +55,8 @@ def crawl(url):
 
     
 data_main = []
-max_numpage = 20
-head_url = 'https://hasaki.vn/danh-muc/cham-soc-toc-c96.html?p='
+max_numpage = 4
+head_url = 'https://hasaki.vn/danh-muc/thuc-pham-chuc-nang-c156.html?p='
 for i in range(1,max_numpage+1):
     
     url  = head_url + str(i)
@@ -63,5 +64,5 @@ for i in range(1,max_numpage+1):
     data_main += data
 
 df = pd.DataFrame(data_main,columns=['item_name','item_brand','item_id','item_variant','item_product','item_price','item_bought','item_discount','item_price_previous','item_star','item_comment_number','date'])
-df.to_excel('result_toc.xlsx')
+df.to_excel('result_tpcn.xlsx')
     
