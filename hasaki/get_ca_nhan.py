@@ -26,19 +26,6 @@ def crawl(url):
     for item in items:
         today                = date.today()
         item_href            = item.find_all('a')[0]['href']
-        # item_page            = requests.get(item_href)
-        # item_soup            = BeautifulSoup(item_page.content,"html.parser")
-        # item_thong_so         = item_soup.find(id='box_thongsosanpham').tbody.findAll('tr')
-        # for ths in item_thong_so:
-        #     print('======')
-        #     print(ths.find_all('td'))
-        #     ths_key = ths.find('td',class_='col_tb_info_sp bg_info_sp').text.strip()
-            
-        #     print(ths_key)
-            # print(ths[0].text.strip())
-            # print(ths.text.strip())
-        
-
         item_name            = item.find_all('a')[1]['data-name']
         item_brand           = item.find_all('a')[1].get('data-brand', None)
         item_id              = item.find_all('a')[1]['data-id']
