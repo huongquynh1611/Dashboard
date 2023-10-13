@@ -1,0 +1,10 @@
+1. Top brand được yêu thích nhất (theo lượt mua từ trước đến nay): Foodaholic, BNBG, L, La roche-Posay, Cococoon
+
+2. Top sản phẩm được yêu thích nhất và sản phảm đó nằm trong brand nào
+   Nhấn slicer lọc theo brand có thể xem top 5 sản phẩm được yêu thích theo brand đó
+
+3. Đánh giá trung bình (Rating sản phẩm): 4,57
+
+5. Tổng sản phẩm bán ra trong tháng (lấy max sp bán trong tháng - min sp bán trong tháng) tính đến 28/09
+
+6. 
