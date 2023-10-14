@@ -1,29 +1,56 @@
- Trên màn hình laf dash board của nhóm em. 
-- Mục đích phân tích xu hướng mua sắm, phân tichs san pham, lượng mua của khách hàng trên trang WEB chính thức của Hasaki trong 30 ngày.
-- Đầu tiene mình sẽ đưa ra 1 cái nhìn tổng quan về các sản phẩm của trang WEB Hasaki bán trong vòng 30 ngày.
-- Hasaki bán 8340 sp. Trong vòng 30 ngày, Hasaki đã bán ra được 54 210 sản phẩm. Sau 30 ngày trung bình đánh giá là 4,57. Theo nhóm thì lượt đánh giá tương đối tốt. 
+ Trên màn hình là dashboard của nhóm em. 
+- Mục đích phân tích xu hướng mua sắm, phân tích san pham, lượng mua của khách hàng trên trang WEB chính thức của Hasaki.
+
+- Đầu tiên nhóm sẽ đưa ra 1 cái nhìn tổng quan về các sản phẩm của trang WEB Hasaki bán trong vòng 30 ngày.
+
+- Hasaki quản lý tổng cộng 8,340 sản phẩm và trong vòng 30 ngày tính đến ngày 28/09, họ đã bán tổng cộng 54,210 sản phẩm. Điểm trung bình đánh giá của các sản phẩm trên trang web của Hasaki là 4,57, được nhóm xem xét là một kết quả tương đối tích cực. Điêu này cho thấy cửa hàng hoặc sản phẩm đã nhận được sự hài lòng từ đa số người dùng.
+ 
 - Tính đến ngày 28/09 thì 5 sản phẩm có lượt mua cao nhất là (liệt kê 5 sp) nằm trong các brand là (liệt kê tên brand)
+
 - 10 sp có lượt mua cao nhất là (liêt kê..) đây cũng là 10 sp có lượt bán ra cao nhất từ trước đến giờ.
-- Gần 60% sp bán cho nam và nữ. => Vấn đề làm đẹp k chỉ cho giới nữ quan tâm. Những sp dành riêng cho nam đã bắt đầu được quan tâm (nhu cầu sử dụng)
-- SP dành cho da mặt chiếm 71,18 %. => Chúng ta quan tâm đến việc chăm sóc da mặt được ưu tiên. 
-- Các brand đ mn ưa thích nhất (liệt kê tên). Trong đó 2 brand bán mặt nạ có lượt mua cao => Mọi người quan tâm đến việc chăm sóc da mặt
-- Cocoon sp thuần chay của VN, mới ra sau này nhưng lượt bán tương đối cao => trong tương lai có thể đi lên, con người quan tâm đến sp bảo vệ môi trường 
+
+- Hiện nay, khoảng 60% sản phẩm làm đẹp phục vụ cả nam và nữ. Điều này thể hiện sự tiến bộ trong quan điểm về chăm sóc sắc đẹp, không chỉ dành riêng cho phái nữ. Nam giới ngày càng quan tâm đến việc làm đẹp của họ. Sự thay đổi này được thúc đẩy bởi sự phát triển của thị trường làm đẹp nam giới, và dẫn đến sự phát triển mạnh mẽ của sản phẩm làm đẹp dành cho cả nam và nữ trong hiện tại và trong tương lai.
+
+- Ta có thể thấy Có sự ưu tiên rõ ràng đối với việc chăm sóc da mặt, với 71,18% sản phẩm hướng nằm trong danh mục này. Điều này cho thấy mọi người quan tâm đến việc duy trì sức khỏe và làm đẹp cho làn da
+
+- Các brand đ mn ưa ưa chuộng (liệt kê tên). Trong đó 2 brand top đầu này có danh tiếng mạnh trong việc chăm sóc da mặt, đặc biệt là trong việc bán các loại mặt nạ, thể hiện sự quan tâm của mọi người đối với việc làm đẹp da mặt.
+
+- Ngoài ra các sản phẩm của brand Cocoon là một ví dụ thú vị khác. Đây là một thương hiệu mỹ phẩm thuần chay đến từ Việt Nam. Mặc dù mới ra mắt sau một thời gian, nhưng Cocoon đã có lượt bán tương đối cao, cho thấy sự quan tâm ngày càng gia tăng của người tiêu dùng đối với sản phẩm bảo vệ môi trường. Điều này thể hiện xu hướng quan tâm đến việc chăm sóc da mặt và đồng thời góp phần vào việc bảo vệ môi trường.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%MAP
-- Nhóm có vẽ ra xem xuát xứ của các thương hiệu, ta thấy phần lớn các sp các thương hiệu nổi tiếng đến từ Hàn Quốc, Nhật Bản, Pháp, Mỹ. Bên cạnh đó các sp đến từ các thương hiệu của VN cũng  được mọi người đón nhận nên Hasaki bán cũng có nhiều sp trong nước. => Hiện tại thị trường mỹ phẩm nội địa cũng được mn quan tâm hơn, chứ k phải chỉ quan tâm đến các sp nước ngoài.
-- Biểu đồ đường thể hiện khoảng giá của sp theo từng brand. (liệt kê). Những sp có giá trung bình từ vài triệu đến mấy ngàn => Cửa hàng bán những sp cho những phân khúc khách hàng. VD HSSV sẽ bán những sp gì gì đó
+- Nhìn vào biểu đồ tròn trên đây, ta có thể thấy các sản phẩm  trong danh mục da mặt chiếm đa số so với các danh mục còn lại.
+
+- Nhóm đã xây dựng một biểu đồ để xác định xuất xứ của các thương hiệu mỹ phẩm, và t thấy rằng phần lớn sản phẩm của các thương hiệu nổi tiếng đến từ các quốc gia như Hàn Quốc, Nhật Bản, Pháp và Mỹ. Tuy nhiên, không nên bỏ qua sự phát triển của thương hiệu mỹ phẩm Việt Nam, với nhiều sản phẩm được người tiêu dùng đón nhận điều đó được thể hiện qua việc Hasaki bán cũng có nhiều sản phẩm trong nước. Sự thịnh hành của các sản phẩm Hasaki trên thị trường nội địa cho thấy sự quan tâm ngày càng tăng đối với mỹ phẩm trong nước, và không chỉ dừng lại ở sản phẩm nước ngoài.
+
+- Dự liệu về giá cả của các sản phẩm được biểu thị dưới dạng biểu đồ đường, cho phép chúng ta thấy rõ sự chênh lệch về giá cả theo từng thương hiệu. Với khoảng giá trung bình từ vài triệu đến vài ngàn đồng. Dựa trên dữ liệu này, ta thấy Hasaki có thể đáp ứng nhu cầu mua sắm của các phân khúc khách hàng cụ thể, ví dụ như học sinh - sinh viên, và cung cấp các sản phẩm phù hợp với họ.
+
 %%%%%%%%%%%%%%%%%%%%Category
-- sau khi đưa ra cái nhìn tổng quan nhóm sẽ phân tích ỹ hơn các sp theo danh mục hàng. Với dạnh mục cá nhân thì tổng sp bán ra là 643, cửa hàng bán được 1277 sp.
-- Còn nếu mình muốn xem danh mục ....
+- Sau khi đưa ra cái nhìn tổng quan nhóm sẽ phân tích kỹ hơn các sản phẩm theo danh mục hàng. Với dạnh mục cá nhân thì tổng sp bán ra là 643, cửa hàng bán được 1277 sp.
+
+- Còn nếu mình muốn xem danh mục .... (đổi filter)
+
 - Tính đến ngày 28/09 thì sp ... của danh mục ... có lượt mua cao nhất ...
+
 - Nhìn vào biểu đồ tròn, ngoại trừ nước hoa các danh mục khác đều có các sp dành cho nam và nữ chiếm đa số. Do lý do đặc thù, vì ít nước hoa unisex, nc hoa sẽ phân ra nam riêng nữ riêng nên nữ mua chiếm đa số. Còn các sp trong danh mục khác sp dành cho nam vs nữ nhiều
+
+- Dựa vào biểu đồ tròn, chúng ta có thể nhận thấy rằng, ngoại trừ nước hoa có đa số người tiêu dùng trong các danh mục này là nữ, các danh mục sản phẩm khác đều có sự đa dạng về sản phẩm dành cho cả nam và nữ. Lý do cho điều này là do nước hoa ít có loại dành cho cả nam và nữ (nước hoa unisex), nước hoa thường được phân chia rõ ràng giữa hai loại, dẫn đến việc phụ nữ chiếm đa số trong mua sắm sản phẩm này. 
+
 %%%%%%%%%%% Brand
 - Tiếp theo nhóm sẽ phân tích theo brand. Nhóm sẽ phân tích thử theo brand Loreal. 
-- Top sp có lượt mua cao nhất là ....
-- Tổng sp bán là 173 so. và cửa hàng bán ra được 10 63K sp.
-- Theo giới tính thì sp dành cho nam và nữ vẫn đ khách hàng ưu tiên.
-- Tỉ lệ sp dành cho tóc vs da mạt vs Trang điểm chiếm đa số . Một số ít sp dành cho các danh mục còn lại. Loreal đã bán những sp dành cho tóc và da mặt và trang điểm và chủ yếu. Một số sp cao cấp dành cho phân khúc khách hàng muốn sử dụng đồ cao câp
-- Loreal k có sp dành cho nam riêng. 
-=> Tổng sl sp của Loreal chiếm 20% trên tổng sp bán ra của cửa hàng vậy Loreal do chất lượng, danh mục đa dạng, giá tiền trung bình tầm 200 mấy phù hợp vs mn, chất lượng cũng tốt so vs giá tiền nên mới bán được nhiều. Lượng bán ra của brand Loreal khá tốt
+
+- Trong danh sách các sản phẩm Loreal, sản phẩm có lượng mua cao nhất là ...
+
+- Tổng số sản phẩm bán ra của Loreal là 173, và tính đến ngày 28/09, cửa hàng đã bán được tổng cộng 10,630 sản phẩm Loreal. 
+
+- Theo giới tính của khách hàng, chúng ta thấy rằng sản phẩm dành cho cả nam và nữ đều được ưa chuộng và có sự quan tâm. Loreal không có sản phẩm dành cho nam riêng.
+
+- Về tỉ lệ sản phẩm, sản phẩm của Loreal tập trung chủ yếu vào các danh mục chăm sóc tóc, da mặt và trang điểm.chiếm tỷ trọng lớn trong cửa hàng. Ngoài ra, có một số sản phẩm dành cho các danh mục khác nhưng chiếm tỷ trọng nhỏ hơn. Loreal còn được biết đến với các sản phẩm chất lượng và đa dạng, với một phần sản phẩm cao cấp phục vụ cho những khách hàng có nhu cầu sử dụng sản phẩm cao cấp.
+ 
+=> Tổng số lượng sản phẩm Loreal bán ra chiếm một phần quan trọng trong tổng số sản phẩm bán ra của cửa hàng, với tỷ lệ khoảng 20%. Sự thành công của Loreal có thể được giải thích bằng sự phù hợp về giá cả, chất lượng và sự đa dạng của danh mục sản phẩm, đáp ứng nhu cầu của nhiều loại khách hàng khác nhau. Loreal đã đạt được một lượng bán hàng đáng kể, cho thấy tầm quan trọng của thương hiệu này trong ngành công nghiệp làm đẹp.
+
 %%%%%%%%%%% Product
-- Và cuối cùng mình sẽ phân tích sl sp bán và giá tiền. 
+- Và cuối cùng mình sẽ phân tích số lượng sản phẩm bán và giá tiền. 
+
+- (Đổi theo từng sản phẩm) Cái nào lượt bán là 0 nghĩa là trong 30 ngày không có sp nào được bán ra.
+
 - Dữ liệu của mình khi Crawl về thì thấy rằng dữ liệu k phải thật nên khi vẽ ra thấy k đúng. Do đó giá tăng giảm, thông thường lượt mua phải đi lên, những dữ liệu này lượt mua lúc lên lúc xuống, nên nhóm mình phân tích ra nhưng ở đây k có insight. Nhóm suy nghĩ đến nhưng khi vẽ ra thấy sai nên mới biết dữ liệu bị sai.
