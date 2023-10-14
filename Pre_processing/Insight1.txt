@@ -9,7 +9,7 @@
 
 - 10 sp có lượt mua cao nhất là (liêt kê..) đây cũng là 10 sp có lượt bán ra cao nhất từ trước đến giờ.
 
-- Hiện nay, khoảng 60% sản phẩm làm đẹp phục vụ cả nam và nữ. Điều này thể hiện sự tiến bộ trong quan điểm về chăm sóc sắc đẹp, không chỉ dành riêng cho phái nữ. Nam giới ngày càng quan tâm đến việc làm đẹp của họ. Sự thay đổi này được thúc đẩy bởi sự phát triển của thị trường làm đẹp nam giới, và dẫn đến sự phát triển mạnh mẽ của sản phẩm làm đẹp dành cho cả nam và nữ trong hiện tại và trong tương lai.
+- Hiện nay, khoảng 60% sản phẩm làm đẹp phục vụ cả nam và nữ. Điều này thể hiện sự tiến bộ trong quan điểm về chăm sóc sắc đẹp, không chỉ dành riêng cho phái nữ. Nam giới ngày càng quan tâm đến việc làm đẹp của họ. Sự thay đổi này được thúc đẩy bởi sự phát triển của thị trường làm đẹp nam giới, và dẫn đến sự phát triển mạnh mẽ của sản phẩm làm đẹp dành cho cả nam và nữ trong hiện tại và trong tương lai. Hiện nay những brand đang sản xuất ra những sp dành cho cả nam và nữ để thu hút các khách hàng nam.
 
 - Ta có thể thấy Có sự ưu tiên rõ ràng đối với việc chăm sóc da mặt, với 71,18% sản phẩm hướng nằm trong danh mục này. Điều này cho thấy mọi người quan tâm đến việc duy trì sức khỏe và làm đẹp cho làn da
 
@@ -22,7 +22,7 @@
 
 - Nhóm đã xây dựng một biểu đồ để xác định xuất xứ của các thương hiệu mỹ phẩm, và t thấy rằng phần lớn sản phẩm của các thương hiệu nổi tiếng đến từ các quốc gia như Hàn Quốc, Nhật Bản, Pháp và Mỹ. Tuy nhiên, không nên bỏ qua sự phát triển của thương hiệu mỹ phẩm Việt Nam, với nhiều sản phẩm được người tiêu dùng đón nhận điều đó được thể hiện qua việc Hasaki bán cũng có nhiều sản phẩm trong nước. Sự thịnh hành của các sản phẩm Hasaki trên thị trường nội địa cho thấy sự quan tâm ngày càng tăng đối với mỹ phẩm trong nước, và không chỉ dừng lại ở sản phẩm nước ngoài.
 
-- Dự liệu về giá cả của các sản phẩm được biểu thị dưới dạng biểu đồ đường, cho phép chúng ta thấy rõ sự chênh lệch về giá cả theo từng thương hiệu. Với khoảng giá trung bình từ vài triệu đến vài ngàn đồng. Dựa trên dữ liệu này, ta thấy Hasaki có thể đáp ứng nhu cầu mua sắm của các phân khúc khách hàng cụ thể, ví dụ như học sinh - sinh viên, và cung cấp các sản phẩm phù hợp với họ.
+- Dự liệu về giá cả của các sản phẩm được biểu thị dưới dạng biểu đồ đường, cho phép chúng ta thấy rõ sự chênh lệch về giá cả theo từng thương hiệu. Với khoảng giá trung bình trải dài từ vài triệu đến vài ngàn đồng. Dựa trên dữ liệu này, ta thấy Hasaki có thể đáp ứng nhu cầu mua sắm của các phân khúc khách hàng, từ khách hàng cao cấp đến bình dân ví dụ như học sinh - sinh viên quan tâm đến sp làm đẹp nhưng chưa có đủ kinh tế có thể mua các sp có giá bình dân, và cung cấp các sản phẩm phù hợp với họ.
 
 %%%%%%%%%%%%%%%%%%%%Category
 - Sau khi đưa ra cái nhìn tổng quan nhóm sẽ phân tích kỹ hơn các sản phẩm theo danh mục hàng. Với dạnh mục cá nhân thì tổng sp bán ra là 643, cửa hàng bán được 1277 sp.
